@@ -1,0 +1,43 @@
+.jumbotron {
+  background-image: url("../../assets/images/printing-services.png");
+  height: 23em; }
+
+.features {
+  color: #FFF;
+  background-color: #FF6101;
+  padding: 25px; }
+
+.features p {
+  color: #FFF;
+  font-size: 14px; }
+
+.features-heading {
+  text-transform: uppercase;
+  color: #FFF;
+  font-size: 16px;
+  margin-bottom: 0; }
+
+.meseyat-button {
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 250px;
+  height: 70px;
+  border: 2px solid #FF6101;
+  border-radius: 40px;
+  background: transparent;
+  color: #FF6101 !important;
+  letter-spacing: 1px;
+  float: right;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  text-align: center;
+  cursor: pointer; }
+
+.meseyat-button:hover {
+  transition: background-color 0.3s, color 0.3s, width 0.3s, border-width 0.3s, border-color 0.3s;
+  background-color: #ff6101;
+  color: white !important; }
+
+/*# sourceMappingURL=home.component.css.map */
